@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.202
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SeleniumExtractor.ConsoleApp", "SeleniumExtractor.ConsoleApp\SeleniumExtractor.ConsoleApp.csproj", "{8D7E1A42-A963-40B6-B615-5D24800BBCB8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SeleniumExtractor.Web", "SeleniumExtractor.Web\SeleniumExtractor.Web.csproj", "{525F90CB-70E0-4376-982F-74E2BA3271D7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8D7E1A42-A963-40B6-B615-5D24800BBCB8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D7E1A42-A963-40B6-B615-5D24800BBCB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D7E1A42-A963-40B6-B615-5D24800BBCB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D7E1A42-A963-40B6-B615-5D24800BBCB8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{525F90CB-70E0-4376-982F-74E2BA3271D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{525F90CB-70E0-4376-982F-74E2BA3271D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{525F90CB-70E0-4376-982F-74E2BA3271D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{525F90CB-70E0-4376-982F-74E2BA3271D7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5EA5B1B6-01FE-4186-A127-BC41697D0D72}
+	EndGlobalSection
+EndGlobal
